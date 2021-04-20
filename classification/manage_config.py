@@ -1,5 +1,12 @@
-# Tools here generate config files i.e. lists of slides, paths, label mapping
-# for trn, tst, val and also loads them into memory.
+"""
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+Tools here generate config files i.e. lists of slides, paths, label mapping
+for trn, tst, val and also loads them into memory.
+Author: Ruchi Chauhan
+"""
 import os
 import sys
 
