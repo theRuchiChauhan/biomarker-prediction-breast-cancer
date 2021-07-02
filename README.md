@@ -6,7 +6,7 @@ The advent of digital pathology presents opportunities for computer vision for f
 
 
 # Workflow
-![pipeline](https://github.com/theRuchiChauhan/biomarker-prediction-breast-cancer/blob/main/MUTBRCA_pipeline.png"Workflow")
+![pipeline](https://github.com/theRuchiChauhan/biomarker-prediction-breast-cancer/blob/main/MUTBRCA_pipeline.png?raw=true)
 
 # Dependencies
 Please refer to the requirements.txt for all dependencies to run the analysis
